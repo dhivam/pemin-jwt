@@ -1,3 +1,12 @@
+Nama Kelompok :
+Cita Aji Pangesti - 185150700111004 - PEMIN-A
+Qonita Nur Farhana - 185150700111008 - PEMIN-A
+Fitria Yesisca - 185150701111002 - PEMIN-A
+Fitri Zakiatul Lailia - 185150700111024 - PEMIN-A
+Nur Eka Hartiningrum - 185150700111029 - PEMIN-A
+Dhiva Mustikananda - 185150701111013 - PEMIN-A
+
+
 # Lumen PHP Framework
 
 [![Build Status](https://travis-ci.org/laravel/lumen-framework.svg)](https://travis-ci.org/laravel/lumen-framework)
